@@ -13,7 +13,7 @@ import {
 } from './defaults';
 
 function useTextEditor({
-  defaultSegments,
+  defaultSegments = [],
   defaultMode = 'edit',
   segmentStyle = defaultSegmentStyle,
   segmentBorderColors = defaultBorderColors,
@@ -23,9 +23,9 @@ function useTextEditor({
   dragIndicatorComponent = <DefaultDragIndicator />,
   splitIndicatorComponent = <DefaultSplitIndicator />,
   dragOverlayCursor = <DefaultDragOverlayCursor />,
-  screenReaderInstructions,
+  screenReaderInstructions = instructions,
 }: {
-  defaultSegments: Segment[];
+  defaultSegments?: Segment[];
   defaultMode?: Mode;
   segmentStyle?: React.CSSProperties;
   segmentBorderColors?: string[];
@@ -36,7 +36,7 @@ function useTextEditor({
   splitIndicatorComponent?: React.ReactElement;
   dragOverlayCursor?: React.ReactElement;
   screenReaderInstructions?: string;
-}) {
+} = {}) {
   const [segments, setSegments] = useState(defaultSegments);
   const [mode, setMode] = useState<Mode>(defaultMode);
   const contentEditableRef = useRef<HTMLDivElement>(null);
@@ -55,7 +55,7 @@ function useTextEditor({
     dragIndicatorComponent,
     splitIndicatorComponent,
     dragOverlayCursor,
-    screenReaderInstructions: screenReaderInstructions || instructions,
+    screenReaderInstructions,
   };
 }
 
