@@ -1,5 +1,6 @@
 <div align="center">
-  <img alt="react-segmented-textarea" src="https://raw.githubusercontent.com/stuartrobinson3007/react-segmented-textarea/main/assets/demo.gif"/>
+  <img alt="react-segmented-textarea" src="https://github.com/stuartrobinson3007/react-segmented-textarea/blob/main/assets/demo.gif?raw=true"/>
+  
 </div>
 
 <br />
