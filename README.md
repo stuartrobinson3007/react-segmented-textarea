@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="react-segmented-textarea" src="https://github.com/stuartrobinson/react-segmented-textarea/raw/main/assets/demo.gif"/>
+  <img alt="react-segmented-textarea" src="./assets/demo.gif"/>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 
 ## Demo
 
-Check out a demo here: [Demo](https://react-segmented-textarea.vercel.app/)
+Check out a demo here: <a href="https://react-segmented-textarea.vercel.app/" target="_blank">Demo</a>
 
 ## Installation
 
