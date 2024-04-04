@@ -23,7 +23,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsup src/index.ts",
+    "build": "tsup",
     "test": "vitest"
   },
   "husky": {
