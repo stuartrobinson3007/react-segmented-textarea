@@ -101,7 +101,7 @@ function Client() {
           </p>
           <TextEditor
             {...textEditor}
-            className="h-[40vh] overflow-y-auto p-4 bg-white rounded text-4xl md:text-base"
+            className="h-[40vh] overflow-y-auto p-4 bg-white rounded text-2xl md:text-base"
           />
           <div className="flex justify-center mt-4 space-x-4">
             <div className="flex flex-col items-center space-y-2">
