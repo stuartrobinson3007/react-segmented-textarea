@@ -107,7 +107,7 @@ const InnerHTML = (props: Props) => {
                           id={`${index}`}
                         >
                           {/* In edit mode, the special space character allows the user to type a space at the end of a segment. But in drag mode it causes wrapping issues on iOS */}
-                          {mode === 'edit' ? '\u2005' : ' '}
+                          {mode === 'edit' ? '\u2008' : ' '}
                         </span>
                       ) : (
                         ''
@@ -118,7 +118,7 @@ const InnerHTML = (props: Props) => {
             </span>
             {segmentIndex !== segmentsWithIndexes.length - 1 ? (
               <span text-editor-span-type="segment-space">
-                {mode === 'edit' ? '\u2005' : ' '}
+                {mode === 'edit' ? '\u2008' : ' '}
               </span>
             ) : (
               ''
