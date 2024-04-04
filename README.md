@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://badgen.net/npm/v/react-segmented-textarea" alt="NPM Version" />
   <img src="https://badgen.net/bundlephobia/minzip/react-segmented-textarea" alt="minzipped size"/>
-  <img src="https://github.com/stuartrobinson/react-segmented-textarea/workflows/CI/badge.svg" alt="Build Status" />
+  <img src="https://github.com/stuartrobinson3007/react-segmented-textarea/workflows/CI/badge.svg" alt="Build Status" />
 </a>
 </div>
 <br />
