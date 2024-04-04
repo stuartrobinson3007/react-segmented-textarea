@@ -1,6 +1,8 @@
 <div align="center">
-  <img alt="react-segmented-textarea" src="./assets/demo.gif"/>
+  <img alt="react-segmented-textarea" src="https://raw.githubusercontent.com/stuartrobinson3007/react-segmented-textarea/main/assets/demo.gif"/>
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://badgen.net/npm/v/react-segmented-textarea" alt="NPM Version" />
@@ -49,6 +51,7 @@ const textEditor = useTextEditor()
 ```
 
 <br />
+
 ## Documentation
 
 ### Config Options
