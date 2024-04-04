@@ -1,6 +1,5 @@
 <div align="center">
   <img alt="react-segmented-textarea" src="https://github.com/stuartrobinson3007/react-segmented-textarea/blob/main/assets/demo.gif?raw=true"/>
-  
 </div>
 
 <br />
@@ -35,6 +34,7 @@ npm install react-segmented-textarea
 ```
 
 <br />
+
 ## Getting Started
 
 ```jsx
