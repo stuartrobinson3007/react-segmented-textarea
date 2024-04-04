@@ -138,11 +138,6 @@ const DragHandle = ({
             tabIndex: -1,
           }
         : {})}
-      // className={cn(
-      //   "absolute z-10",
-      //   "focus:outline-none cursor-col-resize"
-      //   // "bg-black/20 border border-black/50"
-      // )}
       className={css`
         position: absolute;
         z-index: 10;
@@ -165,7 +160,6 @@ const DragHandle = ({
     >
       {side === 'right' && (
         <div
-          // className="absolute inset-y-0 right-[-0.1em] translate-x-1/2 w-0 flex justify-center items-center"
           className={css`
             position: absolute;
             top: 0;
@@ -194,7 +188,6 @@ const DragHandler = () => {
 
   return (
     <div
-      // className="absolute inset-0"
       className={css`
         position: absolute;
         top: 0;

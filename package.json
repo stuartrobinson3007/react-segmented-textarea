@@ -1,6 +1,6 @@
 {
   "name": "react-segmented-textarea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React textarea component which allows the user to partition the contents into segments with a draggable divider between each segment. Keyboard accessible.",
   "keywords": [
     "react",

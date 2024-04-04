@@ -7,8 +7,8 @@
 </a>
 </div>
 <br />
-<div align="center"><strong>Title</strong></div>
-<div align="center">Subtitle</div>
+<div align="center"><strong>Textarea with adjustable segments for React</strong></div>
+<div align="center">Customizable, accessible, and easy to use.</div>
 
 <br />
 <div align="center">
@@ -16,12 +16,6 @@
 </div>
 
 <br />
-
-## Features
-
-- Feature here
-- Feature here
-- Feature here
 
 ## Installation
 
@@ -33,14 +27,47 @@ npm install react-segmented-textarea
 
 ## Getting Started
 
-Add the Toaster to your app first. It will take care of rendering all notifications emitted. Now you can trigger `toast()` from anywhere!
-
 ```jsx
 import { TextEditor, textEditor } from 'react-segmented-textarea';
 
-// code here
+
+const App = () => {
+
+const textEditor = useTextEditor()
+
+  return (
+    <TextEditor {...textEditor}>
+  );
+};
 ```
 
 ## Documentation
 
-Documentation ...
+### Config Options
+
+The `useTextEditor` hook provides functionality for managing the textarea config.
+
+#### Defaults
+
+- `defaultSegments`: An array of initial segments for the text editor. Default value is an empty array.
+- `defaultMode`: The default mode of the text editor, either 'edit', 'drag' or 'split'. Default value is 'edit'.
+
+### Styling
+
+- `segmentStyle`: Custom CSS properties to style the text segments.
+
+Colors defined below are provided as an array and looped over.
+
+- `segmentBorderColors`: An array of colors for segment borders.
+- `segmentBackgroundColors`: An array of colors for segment backgrounds.
+- `segmentTextColors`: An array of colors for segment text.
+
+- `dragIndicatorComponent`: Custom component for the drag indicator that appears at each segment intersection when in drag mode.
+- `dragHandleComponent`: Custom component for the drag handle when a drag indicator is hovered over.
+- `splitIndicatorComponent`: Custom component for the split indicator that appears when the user hovers over a word.
+- `dragOverlayCursor`: Custom component for the drag overlay cursor that appears when the user is using the keyboard to adjust segments.
+- `screenReaderInstructions`: Instructions for screen readers.
+
+### Return Value
+
+The hook returns these properties back so that they can be passed into the TextEditor component.
