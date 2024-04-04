@@ -1,9 +1,11 @@
-<img alt="react-segmented-textarea" src="https://github.com/stuartrobinson/react-segmented-textarea/raw/main/assets/demo.gif"/>
+<div align="center">
+  <img alt="react-segmented-textarea" src="https://github.com/stuartrobinson/react-segmented-textarea/raw/main/assets/demo.gif"/>
+</div>
 
 <div align="center">
-    <img src="https://badgen.net/npm/v/react-segmented-textarea" alt="NPM Version" />
+  <img src="https://badgen.net/npm/v/react-segmented-textarea" alt="NPM Version" />
   <img src="https://badgen.net/bundlephobia/minzip/react-segmented-textarea" alt="minzipped size"/>
-    <img src="https://github.com/stuartrobinson/react-segmented-textarea/workflows/CI/badge.svg" alt="Build Status" />
+  <img src="https://github.com/stuartrobinson/react-segmented-textarea/workflows/CI/badge.svg" alt="Build Status" />
 </a>
 </div>
 <br />
@@ -17,6 +19,10 @@
 
 <br />
 
+## Demo
+
+Check out a demo here: [Demo](https://react-segmented-textarea.vercel.app/)
+
 ## Installation
 
 #### With NPM
@@ -25,6 +31,7 @@
 npm install react-segmented-textarea
 ```
 
+<br />
 ## Getting Started
 
 ```jsx
@@ -41,6 +48,7 @@ const textEditor = useTextEditor()
 };
 ```
 
+<br />
 ## Documentation
 
 ### Config Options
