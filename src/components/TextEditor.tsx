@@ -521,7 +521,6 @@ const TextEditor = memo(
               }}
             >
               <div
-                // className="relative"
                 className={css`
                   position: relative;
                 `}

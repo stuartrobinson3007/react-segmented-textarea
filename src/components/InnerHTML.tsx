@@ -47,16 +47,11 @@ const InnerHTML = (props: Props) => {
             <span
               text-editor-span-type="segment"
               segment-id={id}
-              // className="whitespace-pre-line text-wrap break-words"
               className={css`
                 white-space: pre-line;
                 word-wrap: break-word;
               `}
               style={{
-                // boxDecorationBreak: "clone",
-                // whiteSpace: "pre-line",
-                // textWrap: "wrap",
-                // marginRight: mode === "drag" ? "15px" : "0",
                 ...segmentStyle,
                 backgroundColor:
                   segmentBackgroundColors[
@@ -84,10 +79,6 @@ const InnerHTML = (props: Props) => {
                       <span
                         text-editor-span-type="word"
                         key={`${startWordIndex}-${endWordIndex}-${wordIndex}-${word}`}
-                        // className="relative whitespace-pre-line text-wrap break-words"
-                        // className={css`
-                        //   white-space: pre-line;
-                        // `}
                         className={css`
                           white-space: pre-line;
                           word-wrap: break-word;
@@ -109,13 +100,6 @@ const InnerHTML = (props: Props) => {
                         <span
                           key={`word-${index}`}
                           text-editor-span-type="word-space"
-                          // className="whitespace-pre-line text-wrap break-words"
-                          // className={css`
-                          //   white-space: pre-line;
-                          // `}
-                          // className={css`
-                          //   white-space: pre-line;
-                          // `}
                           className={css`
                             white-space: pre-line;
                             word-wrap: break-word;

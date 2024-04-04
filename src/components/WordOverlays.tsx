@@ -60,11 +60,6 @@ const WordOverlay = ({
 
   return (
     <button
-      // className={cn(
-      //   "absolute focus:outline-none cursor-default",
-      //   side === "left" ? "translate-x-[-0.15em]" : "translate-x-[0.15em]"
-      //   // "bg-black/50"
-      // )}
       className={css`
         position: absolute;
         outline: none;
@@ -95,10 +90,6 @@ const WordOverlay = ({
     >
       {mode === 'drag' && isOver && (
         <div
-          // className={cn(
-          //   "absolute h-full inset-y-0 z-10 w-0 flex justify-center items-center",
-          //   side === "left" ? "left-0" : "right-0"
-          // )}
           className={css`
             position: absolute;
             height: 100%;
@@ -119,10 +110,6 @@ const WordOverlay = ({
       )}
       {mode === 'split' && (isHovered || isFocused) && (
         <div
-          // className={cn(
-          //   "pointer-events-none absolute inset-y-0 z-10 w-0 flex justify-center items-center",
-          //   side === "left" ? "left-0" : "right-0"
-          // )}
           className={css`
             pointer-events: none;
             position: absolute;
@@ -156,7 +143,6 @@ const WordOverlays = () => {
 
   return (
     <div
-      // className="absolute inset-0"
       className={css`
         position: absolute;
         inset: 0;

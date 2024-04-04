@@ -21,12 +21,6 @@ const dotStyle = css`
 const DefaultDragHandle = () => {
   return (
     <div
-      // className={cn(
-      //   'border-blue-500/40 bg-blue-500 opacity-100',
-      //   'rounded flex flex-col items-center justify-center space-y-0.5',
-      //   'absolute',
-      //   'w-[14px] top-0 h-auto bottom-[-2px] rounded'
-      // )}
       className={css`
         border: 1px solid rgb(59 130 246 / 40%);
         background-color: rgb(59 130 246);
@@ -54,7 +48,7 @@ const DefaultDragHandle = () => {
 
 const DefaultDragIndicator = () => {
   return (
-    <div //className="absolute bg-blue-500 rounded-full w-[9px] h-[9px]" />
+    <div
       className={css`
         position: absolute;
         background-color: rgb(59 130 246);
@@ -69,7 +63,6 @@ const DefaultDragIndicator = () => {
 const DefaultSplitIndicator = () => {
   return (
     <div
-      // className={cn('absolute inset-y-0 w-2 bg-blue-500')}
       className={css`
         position: absolute;
         top: 0;
@@ -84,9 +77,6 @@ const DefaultSplitIndicator = () => {
 const DefaultDragOverlayCursor = () => {
   return (
     <div
-      // className={
-      //   'absolute w-2 h-2 top-[0.5em] rounded-full border-blue-500 border-2 bg-white ring-4 ring-white'
-      // }
       className={css`
         position: absolute;
         width: 2px;
