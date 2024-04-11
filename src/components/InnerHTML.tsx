@@ -103,6 +103,8 @@ const InnerHTML = (props: Props) => {
                           className={css`
                             white-space: pre-line;
                             word-wrap: break-word;
+                            display: inline-block;
+                            width: 0.2em;
                           `}
                           id={`${index}`}
                         >
@@ -117,7 +119,13 @@ const InnerHTML = (props: Props) => {
                 })}
             </span>
             {segmentIndex !== segmentsWithIndexes.length - 1 ? (
-              <span text-editor-span-type="segment-space">
+              <span
+                text-editor-span-type="segment-space"
+                className={css`
+                  display: inline-block;
+                  width: 0.2em;
+                `}
+              >
                 {mode === 'edit' ? '\u2008' : ' '}
               </span>
             ) : (
