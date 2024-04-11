@@ -18,7 +18,7 @@ exports[`Basic > should render the component 1`] = `
         When
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -31,7 +31,7 @@ exports[`Basic > should render the component 1`] = `
         Mr.
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -44,7 +44,7 @@ exports[`Basic > should render the component 1`] = `
         Bilbo
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -57,7 +57,7 @@ exports[`Basic > should render the component 1`] = `
         Baggins
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -70,7 +70,7 @@ exports[`Basic > should render the component 1`] = `
         of
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -83,7 +83,7 @@ exports[`Basic > should render the component 1`] = `
         Bag
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -96,7 +96,7 @@ exports[`Basic > should render the component 1`] = `
         End
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -109,7 +109,7 @@ exports[`Basic > should render the component 1`] = `
         announced
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -122,7 +122,7 @@ exports[`Basic > should render the component 1`] = `
         that
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
@@ -135,7 +135,7 @@ exports[`Basic > should render the component 1`] = `
         he
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="9"
         text-editor-span-type="word-space"
       >
@@ -148,7 +148,7 @@ exports[`Basic > should render the component 1`] = `
         would
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="10"
         text-editor-span-type="word-space"
       >
@@ -162,6 +162,7 @@ exports[`Basic > should render the component 1`] = `
       </span>
     </span>
     <span
+      class="go4236055374"
       text-editor-span-type="segment-space"
     >
        
@@ -179,7 +180,7 @@ exports[`Basic > should render the component 1`] = `
         be
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -192,7 +193,7 @@ exports[`Basic > should render the component 1`] = `
         celebrating
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -205,7 +206,7 @@ exports[`Basic > should render the component 1`] = `
         his
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -218,7 +219,7 @@ exports[`Basic > should render the component 1`] = `
         eleventy-first
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -231,7 +232,7 @@ exports[`Basic > should render the component 1`] = `
         birthday
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -244,7 +245,7 @@ exports[`Basic > should render the component 1`] = `
         with
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -257,7 +258,7 @@ exports[`Basic > should render the component 1`] = `
         a
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -270,7 +271,7 @@ exports[`Basic > should render the component 1`] = `
         party
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -283,7 +284,7 @@ exports[`Basic > should render the component 1`] = `
         of
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
@@ -296,7 +297,7 @@ exports[`Basic > should render the component 1`] = `
         special
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="9"
         text-editor-span-type="word-space"
       >
@@ -309,7 +310,7 @@ exports[`Basic > should render the component 1`] = `
         magnificence,
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="10"
         text-editor-span-type="word-space"
       >
@@ -322,7 +323,7 @@ exports[`Basic > should render the component 1`] = `
         there
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="11"
         text-editor-span-type="word-space"
       >
@@ -335,7 +336,7 @@ exports[`Basic > should render the component 1`] = `
         was
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="12"
         text-editor-span-type="word-space"
       >
@@ -348,7 +349,7 @@ exports[`Basic > should render the component 1`] = `
         much
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="13"
         text-editor-span-type="word-space"
       >
@@ -361,7 +362,7 @@ exports[`Basic > should render the component 1`] = `
         talk
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="14"
         text-editor-span-type="word-space"
       >
@@ -375,6 +376,7 @@ exports[`Basic > should render the component 1`] = `
       </span>
     </span>
     <span
+      class="go4236055374"
       text-editor-span-type="segment-space"
     >
        
@@ -392,7 +394,7 @@ exports[`Basic > should render the component 1`] = `
         excitement
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -405,7 +407,7 @@ exports[`Basic > should render the component 1`] = `
         in
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -418,7 +420,7 @@ exports[`Basic > should render the component 1`] = `
         Hobbiton.
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -431,7 +433,7 @@ exports[`Basic > should render the component 1`] = `
         Bilbo
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -444,7 +446,7 @@ exports[`Basic > should render the component 1`] = `
         was
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -457,7 +459,7 @@ exports[`Basic > should render the component 1`] = `
         very
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -470,7 +472,7 @@ exports[`Basic > should render the component 1`] = `
         rich
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -483,7 +485,7 @@ exports[`Basic > should render the component 1`] = `
         and
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -496,7 +498,7 @@ exports[`Basic > should render the component 1`] = `
         very
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
@@ -509,7 +511,7 @@ exports[`Basic > should render the component 1`] = `
         peculiar,
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="9"
         text-editor-span-type="word-space"
       >
@@ -523,6 +525,7 @@ exports[`Basic > should render the component 1`] = `
       </span>
     </span>
     <span
+      class="go4236055374"
       text-editor-span-type="segment-space"
     >
        
@@ -540,7 +543,7 @@ exports[`Basic > should render the component 1`] = `
         had
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -553,7 +556,7 @@ exports[`Basic > should render the component 1`] = `
         been
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -566,7 +569,7 @@ exports[`Basic > should render the component 1`] = `
         the
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -579,7 +582,7 @@ exports[`Basic > should render the component 1`] = `
         wonder
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -592,7 +595,7 @@ exports[`Basic > should render the component 1`] = `
         of
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -605,7 +608,7 @@ exports[`Basic > should render the component 1`] = `
         the
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -618,7 +621,7 @@ exports[`Basic > should render the component 1`] = `
         Shire
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -631,7 +634,7 @@ exports[`Basic > should render the component 1`] = `
         for
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -644,7 +647,7 @@ exports[`Basic > should render the component 1`] = `
         sixty
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
@@ -657,7 +660,7 @@ exports[`Basic > should render the component 1`] = `
         years,
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="9"
         text-editor-span-type="word-space"
       >
@@ -670,7 +673,7 @@ exports[`Basic > should render the component 1`] = `
         ever
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="10"
         text-editor-span-type="word-space"
       >
@@ -683,7 +686,7 @@ exports[`Basic > should render the component 1`] = `
         since
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="11"
         text-editor-span-type="word-space"
       >
@@ -696,7 +699,7 @@ exports[`Basic > should render the component 1`] = `
         his
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="12"
         text-editor-span-type="word-space"
       >
@@ -709,7 +712,7 @@ exports[`Basic > should render the component 1`] = `
         remarkable
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="13"
         text-editor-span-type="word-space"
       >
@@ -723,6 +726,7 @@ exports[`Basic > should render the component 1`] = `
       </span>
     </span>
     <span
+      class="go4236055374"
       text-editor-span-type="segment-space"
     >
        
@@ -740,7 +744,7 @@ exports[`Basic > should render the component 1`] = `
         and
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -753,7 +757,7 @@ exports[`Basic > should render the component 1`] = `
         unexpected
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -766,7 +770,7 @@ exports[`Basic > should render the component 1`] = `
         return.
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -779,7 +783,7 @@ exports[`Basic > should render the component 1`] = `
         The
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -792,7 +796,7 @@ exports[`Basic > should render the component 1`] = `
         riches
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -805,7 +809,7 @@ exports[`Basic > should render the component 1`] = `
         he
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -818,7 +822,7 @@ exports[`Basic > should render the component 1`] = `
         had
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -831,7 +835,7 @@ exports[`Basic > should render the component 1`] = `
         brought
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -844,7 +848,7 @@ exports[`Basic > should render the component 1`] = `
         back
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
@@ -857,7 +861,7 @@ exports[`Basic > should render the component 1`] = `
         from
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="9"
         text-editor-span-type="word-space"
       >
@@ -870,7 +874,7 @@ exports[`Basic > should render the component 1`] = `
         his
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="10"
         text-editor-span-type="word-space"
       >
@@ -883,7 +887,7 @@ exports[`Basic > should render the component 1`] = `
         travels
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="11"
         text-editor-span-type="word-space"
       >
@@ -896,7 +900,7 @@ exports[`Basic > should render the component 1`] = `
         had
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="12"
         text-editor-span-type="word-space"
       >
@@ -910,6 +914,7 @@ exports[`Basic > should render the component 1`] = `
       </span>
     </span>
     <span
+      class="go4236055374"
       text-editor-span-type="segment-space"
     >
        
@@ -927,7 +932,7 @@ exports[`Basic > should render the component 1`] = `
         become
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -940,7 +945,7 @@ exports[`Basic > should render the component 1`] = `
         a
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -953,7 +958,7 @@ exports[`Basic > should render the component 1`] = `
         local
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -966,7 +971,7 @@ exports[`Basic > should render the component 1`] = `
         legend,
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -979,7 +984,7 @@ exports[`Basic > should render the component 1`] = `
         and
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -992,7 +997,7 @@ exports[`Basic > should render the component 1`] = `
         it
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -1005,7 +1010,7 @@ exports[`Basic > should render the component 1`] = `
         was
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -1018,7 +1023,7 @@ exports[`Basic > should render the component 1`] = `
         popularly
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -1031,7 +1036,7 @@ exports[`Basic > should render the component 1`] = `
         believed,
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
@@ -1044,7 +1049,7 @@ exports[`Basic > should render the component 1`] = `
         whatever
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="9"
         text-editor-span-type="word-space"
       >
@@ -1058,6 +1063,7 @@ exports[`Basic > should render the component 1`] = `
       </span>
     </span>
     <span
+      class="go4236055374"
       text-editor-span-type="segment-space"
     >
        
@@ -1075,7 +1081,7 @@ exports[`Basic > should render the component 1`] = `
         old
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -1088,7 +1094,7 @@ exports[`Basic > should render the component 1`] = `
         folk
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -1101,7 +1107,7 @@ exports[`Basic > should render the component 1`] = `
         might
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -1114,7 +1120,7 @@ exports[`Basic > should render the component 1`] = `
         say,
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -1127,7 +1133,7 @@ exports[`Basic > should render the component 1`] = `
         that
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -1140,7 +1146,7 @@ exports[`Basic > should render the component 1`] = `
         the
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -1153,7 +1159,7 @@ exports[`Basic > should render the component 1`] = `
         Hill
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -1166,7 +1172,7 @@ exports[`Basic > should render the component 1`] = `
         at
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -1179,7 +1185,7 @@ exports[`Basic > should render the component 1`] = `
         Bag
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
@@ -1192,7 +1198,7 @@ exports[`Basic > should render the component 1`] = `
         End
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="9"
         text-editor-span-type="word-space"
       >
@@ -1206,6 +1212,7 @@ exports[`Basic > should render the component 1`] = `
       </span>
     </span>
     <span
+      class="go4236055374"
       text-editor-span-type="segment-space"
     >
        
@@ -1223,7 +1230,7 @@ exports[`Basic > should render the component 1`] = `
         full
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -1236,7 +1243,7 @@ exports[`Basic > should render the component 1`] = `
         of
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -1249,7 +1256,7 @@ exports[`Basic > should render the component 1`] = `
         tunnels
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -1262,7 +1269,7 @@ exports[`Basic > should render the component 1`] = `
         stuffed
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -1275,7 +1282,7 @@ exports[`Basic > should render the component 1`] = `
         with
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -1288,7 +1295,7 @@ exports[`Basic > should render the component 1`] = `
         treasure.
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -1301,7 +1308,7 @@ exports[`Basic > should render the component 1`] = `
         And
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -1314,7 +1321,7 @@ exports[`Basic > should render the component 1`] = `
         if
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -1327,7 +1334,7 @@ exports[`Basic > should render the component 1`] = `
         that
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
@@ -1340,7 +1347,7 @@ exports[`Basic > should render the component 1`] = `
         was
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="9"
         text-editor-span-type="word-space"
       >
@@ -1353,7 +1360,7 @@ exports[`Basic > should render the component 1`] = `
         not
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="10"
         text-editor-span-type="word-space"
       >
@@ -1366,7 +1373,7 @@ exports[`Basic > should render the component 1`] = `
         enough
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="11"
         text-editor-span-type="word-space"
       >
@@ -1379,7 +1386,7 @@ exports[`Basic > should render the component 1`] = `
         for
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="12"
         text-editor-span-type="word-space"
       >
@@ -1392,7 +1399,7 @@ exports[`Basic > should render the component 1`] = `
         fame,
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="13"
         text-editor-span-type="word-space"
       >
@@ -1405,7 +1412,7 @@ exports[`Basic > should render the component 1`] = `
         there
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="14"
         text-editor-span-type="word-space"
       >
@@ -1418,7 +1425,7 @@ exports[`Basic > should render the component 1`] = `
         was
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="15"
         text-editor-span-type="word-space"
       >
@@ -1431,7 +1438,7 @@ exports[`Basic > should render the component 1`] = `
         also
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="16"
         text-editor-span-type="word-space"
       >
@@ -1444,7 +1451,7 @@ exports[`Basic > should render the component 1`] = `
         his
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="17"
         text-editor-span-type="word-space"
       >
@@ -1458,6 +1465,7 @@ exports[`Basic > should render the component 1`] = `
       </span>
     </span>
     <span
+      class="go4236055374"
       text-editor-span-type="segment-space"
     >
        
@@ -1475,7 +1483,7 @@ exports[`Basic > should render the component 1`] = `
         vigour
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -1488,7 +1496,7 @@ exports[`Basic > should render the component 1`] = `
         to
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -1501,7 +1509,7 @@ exports[`Basic > should render the component 1`] = `
         marvel
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -1514,7 +1522,7 @@ exports[`Basic > should render the component 1`] = `
         at.
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -1527,7 +1535,7 @@ exports[`Basic > should render the component 1`] = `
         Time
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -1540,7 +1548,7 @@ exports[`Basic > should render the component 1`] = `
         wore
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -1553,7 +1561,7 @@ exports[`Basic > should render the component 1`] = `
         on,
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -1566,7 +1574,7 @@ exports[`Basic > should render the component 1`] = `
         but
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -1579,7 +1587,7 @@ exports[`Basic > should render the component 1`] = `
         it
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
@@ -1592,7 +1600,7 @@ exports[`Basic > should render the component 1`] = `
         seemed
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="9"
         text-editor-span-type="word-space"
       >
@@ -1605,7 +1613,7 @@ exports[`Basic > should render the component 1`] = `
         to
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="10"
         text-editor-span-type="word-space"
       >
@@ -1618,7 +1626,7 @@ exports[`Basic > should render the component 1`] = `
         have
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="11"
         text-editor-span-type="word-space"
       >
@@ -1632,6 +1640,7 @@ exports[`Basic > should render the component 1`] = `
       </span>
     </span>
     <span
+      class="go4236055374"
       text-editor-span-type="segment-space"
     >
        
@@ -1649,7 +1658,7 @@ exports[`Basic > should render the component 1`] = `
         effect
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -1662,7 +1671,7 @@ exports[`Basic > should render the component 1`] = `
         on
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -1675,7 +1684,7 @@ exports[`Basic > should render the component 1`] = `
         Mr.
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -1688,7 +1697,7 @@ exports[`Basic > should render the component 1`] = `
         Baggins.
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -1701,7 +1710,7 @@ exports[`Basic > should render the component 1`] = `
         At
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -1714,7 +1723,7 @@ exports[`Basic > should render the component 1`] = `
         ninety
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -1727,7 +1736,7 @@ exports[`Basic > should render the component 1`] = `
         he
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -1740,7 +1749,7 @@ exports[`Basic > should render the component 1`] = `
         was
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -1753,7 +1762,7 @@ exports[`Basic > should render the component 1`] = `
         much
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
@@ -1766,7 +1775,7 @@ exports[`Basic > should render the component 1`] = `
         the
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="9"
         text-editor-span-type="word-space"
       >
@@ -1779,7 +1788,7 @@ exports[`Basic > should render the component 1`] = `
         same
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="10"
         text-editor-span-type="word-space"
       >
@@ -1792,7 +1801,7 @@ exports[`Basic > should render the component 1`] = `
         as
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="11"
         text-editor-span-type="word-space"
       >
@@ -1805,7 +1814,7 @@ exports[`Basic > should render the component 1`] = `
         at
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="12"
         text-editor-span-type="word-space"
       >
@@ -1818,7 +1827,7 @@ exports[`Basic > should render the component 1`] = `
         fifty.
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="13"
         text-editor-span-type="word-space"
       >
@@ -1831,7 +1840,7 @@ exports[`Basic > should render the component 1`] = `
         At
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="14"
         text-editor-span-type="word-space"
       >
@@ -1844,7 +1853,7 @@ exports[`Basic > should render the component 1`] = `
         ninety-nine
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="15"
         text-editor-span-type="word-space"
       >
@@ -1857,7 +1866,7 @@ exports[`Basic > should render the component 1`] = `
         they
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="16"
         text-editor-span-type="word-space"
       >
@@ -1871,6 +1880,7 @@ exports[`Basic > should render the component 1`] = `
       </span>
     </span>
     <span
+      class="go4236055374"
       text-editor-span-type="segment-space"
     >
        
@@ -1888,7 +1898,7 @@ exports[`Basic > should render the component 1`] = `
         to
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -1901,7 +1911,7 @@ exports[`Basic > should render the component 1`] = `
         call
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -1914,7 +1924,7 @@ exports[`Basic > should render the component 1`] = `
         him
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -1927,7 +1937,7 @@ exports[`Basic > should render the component 1`] = `
         well-preserved,
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -1940,7 +1950,7 @@ exports[`Basic > should render the component 1`] = `
         but
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -1953,7 +1963,7 @@ exports[`Basic > should render the component 1`] = `
         unchanged
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -1966,7 +1976,7 @@ exports[`Basic > should render the component 1`] = `
         would
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -1979,7 +1989,7 @@ exports[`Basic > should render the component 1`] = `
         have
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -1992,7 +2002,7 @@ exports[`Basic > should render the component 1`] = `
         been
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
@@ -2005,7 +2015,7 @@ exports[`Basic > should render the component 1`] = `
         nearer
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="9"
         text-editor-span-type="word-space"
       >
@@ -2018,7 +2028,7 @@ exports[`Basic > should render the component 1`] = `
         the
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="10"
         text-editor-span-type="word-space"
       >
@@ -2031,7 +2041,7 @@ exports[`Basic > should render the component 1`] = `
         mark.
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="11"
         text-editor-span-type="word-space"
       >
@@ -2045,6 +2055,7 @@ exports[`Basic > should render the component 1`] = `
       </span>
     </span>
     <span
+      class="go4236055374"
       text-editor-span-type="segment-space"
     >
        
@@ -2062,7 +2073,7 @@ exports[`Basic > should render the component 1`] = `
         were
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -2075,7 +2086,7 @@ exports[`Basic > should render the component 1`] = `
         some
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -2088,7 +2099,7 @@ exports[`Basic > should render the component 1`] = `
         that
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -2101,7 +2112,7 @@ exports[`Basic > should render the component 1`] = `
         shook
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -2114,7 +2125,7 @@ exports[`Basic > should render the component 1`] = `
         their
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -2127,7 +2138,7 @@ exports[`Basic > should render the component 1`] = `
         heads
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -2140,7 +2151,7 @@ exports[`Basic > should render the component 1`] = `
         and
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -2153,7 +2164,7 @@ exports[`Basic > should render the component 1`] = `
         thought
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -2166,7 +2177,7 @@ exports[`Basic > should render the component 1`] = `
         this
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
@@ -2180,6 +2191,7 @@ exports[`Basic > should render the component 1`] = `
       </span>
     </span>
     <span
+      class="go4236055374"
       text-editor-span-type="segment-space"
     >
        
@@ -2197,7 +2209,7 @@ exports[`Basic > should render the component 1`] = `
         too
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -2210,7 +2222,7 @@ exports[`Basic > should render the component 1`] = `
         much
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -2223,7 +2235,7 @@ exports[`Basic > should render the component 1`] = `
         of
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -2236,7 +2248,7 @@ exports[`Basic > should render the component 1`] = `
         a
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -2249,7 +2261,7 @@ exports[`Basic > should render the component 1`] = `
         good
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -2262,7 +2274,7 @@ exports[`Basic > should render the component 1`] = `
         thing;
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -2275,7 +2287,7 @@ exports[`Basic > should render the component 1`] = `
         it
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -2288,7 +2300,7 @@ exports[`Basic > should render the component 1`] = `
         seemed
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -2301,7 +2313,7 @@ exports[`Basic > should render the component 1`] = `
         unfair
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
@@ -2314,7 +2326,7 @@ exports[`Basic > should render the component 1`] = `
         that
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="9"
         text-editor-span-type="word-space"
       >
@@ -2327,7 +2339,7 @@ exports[`Basic > should render the component 1`] = `
         anyone
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="10"
         text-editor-span-type="word-space"
       >
@@ -2340,7 +2352,7 @@ exports[`Basic > should render the component 1`] = `
         should
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="11"
         text-editor-span-type="word-space"
       >
@@ -2353,7 +2365,7 @@ exports[`Basic > should render the component 1`] = `
         possess
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="12"
         text-editor-span-type="word-space"
       >
@@ -2367,6 +2379,7 @@ exports[`Basic > should render the component 1`] = `
       </span>
     </span>
     <span
+      class="go4236055374"
       text-editor-span-type="segment-space"
     >
        
@@ -2384,7 +2397,7 @@ exports[`Basic > should render the component 1`] = `
         perpetual
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -2397,7 +2410,7 @@ exports[`Basic > should render the component 1`] = `
         youth
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -2410,7 +2423,7 @@ exports[`Basic > should render the component 1`] = `
         as
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -2423,7 +2436,7 @@ exports[`Basic > should render the component 1`] = `
         well
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -2436,7 +2449,7 @@ exports[`Basic > should render the component 1`] = `
         as
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -2449,7 +2462,7 @@ exports[`Basic > should render the component 1`] = `
         (reputedly)
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -2462,7 +2475,7 @@ exports[`Basic > should render the component 1`] = `
         inexhaustible
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -2475,7 +2488,7 @@ exports[`Basic > should render the component 1`] = `
         wealth.
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -2488,7 +2501,7 @@ exports[`Basic > should render the component 1`] = `
         ‘It
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
@@ -2501,7 +2514,7 @@ exports[`Basic > should render the component 1`] = `
         will
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="9"
         text-editor-span-type="word-space"
       >
@@ -2514,7 +2527,7 @@ exports[`Basic > should render the component 1`] = `
         have
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="10"
         text-editor-span-type="word-space"
       >
@@ -2527,7 +2540,7 @@ exports[`Basic > should render the component 1`] = `
         to
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="11"
         text-editor-span-type="word-space"
       >
@@ -2540,7 +2553,7 @@ exports[`Basic > should render the component 1`] = `
         be
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="12"
         text-editor-span-type="word-space"
       >
@@ -2553,7 +2566,7 @@ exports[`Basic > should render the component 1`] = `
         paid
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="13"
         text-editor-span-type="word-space"
       >
@@ -2566,7 +2579,7 @@ exports[`Basic > should render the component 1`] = `
         for,’
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="14"
         text-editor-span-type="word-space"
       >
@@ -2580,6 +2593,7 @@ exports[`Basic > should render the component 1`] = `
       </span>
     </span>
     <span
+      class="go4236055374"
       text-editor-span-type="segment-space"
     >
        
@@ -2597,7 +2611,7 @@ exports[`Basic > should render the component 1`] = `
         said.
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="0"
         text-editor-span-type="word-space"
       >
@@ -2610,7 +2624,7 @@ exports[`Basic > should render the component 1`] = `
         ‘It
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="1"
         text-editor-span-type="word-space"
       >
@@ -2623,7 +2637,7 @@ exports[`Basic > should render the component 1`] = `
         isn’t
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="2"
         text-editor-span-type="word-space"
       >
@@ -2636,7 +2650,7 @@ exports[`Basic > should render the component 1`] = `
         natural,
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="3"
         text-editor-span-type="word-space"
       >
@@ -2649,7 +2663,7 @@ exports[`Basic > should render the component 1`] = `
         and
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="4"
         text-editor-span-type="word-space"
       >
@@ -2662,7 +2676,7 @@ exports[`Basic > should render the component 1`] = `
         trouble
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="5"
         text-editor-span-type="word-space"
       >
@@ -2675,7 +2689,7 @@ exports[`Basic > should render the component 1`] = `
         will
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="6"
         text-editor-span-type="word-space"
       >
@@ -2688,7 +2702,7 @@ exports[`Basic > should render the component 1`] = `
         come
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="7"
         text-editor-span-type="word-space"
       >
@@ -2701,7 +2715,7 @@ exports[`Basic > should render the component 1`] = `
         of
       </span>
       <span
-        class="go3465585390"
+        class="go2233990535"
         id="8"
         text-editor-span-type="word-space"
       >
