@@ -83,3 +83,7 @@ Colors defined below are provided as an array and looped over.
 ### Return Value
 
 The hook returns these properties back so that they can be passed into the TextEditor component.
+
+### Roadmap
+
+- Add unit and e2e testing.
